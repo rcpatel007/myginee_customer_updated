@@ -1,0 +1,1570 @@
+[
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calendar_.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_calendar_.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\notification_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_logo.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_massage_at_home.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_massage_at_home.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_electrician.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_electrician.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plumber.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_plumber.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_payment.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_payment.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notification.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_background_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_background_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\service_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_service_repair.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_service_repair.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ginee.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ginee.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ginee_dialog.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ginee_dialog.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ginne_with_chirag.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ginne_with_chirag.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ginee_bg.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ginee_bg.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\order_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_curre_loc.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_curre_loc.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\banner.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_painter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_painter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_review.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\dialog_review.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_massage_at_home.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_massage_at_home.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_background_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_background_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_wishlist.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_call.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_transaction_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\transaction_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notification.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_painter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_painter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_product_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_product_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_alert.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_alert.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_carpenter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ginee_profile.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ginee_profile.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\cart_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\bg_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_carpenter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ginee.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ginee.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_disable_button_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\disable_button_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\font_nirmala.ttf.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\font\\nirmala.ttf"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\alert_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inquiry_form.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_inquiry_form.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ginee_profile.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ginee_profile.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_product_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_product_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_down.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_curre_loc.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_curre_loc.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_review_bottom.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\bg_review_bottom.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_item_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\banner_item_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cleaning_pest.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cleaning_pest.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_que.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_que.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_remove.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_remove.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_service_repair.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_service_repair.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ginee.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ginee.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acc_service.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_acc_service.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_icon_location.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_icon_location.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plumber.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_plumber.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ginee_bg.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ginee_bg.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_raw_customer.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\chat_raw_customer.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_disinfection.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_disinfection.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_curre_loc.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_curre_loc.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_carpenter.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_carpenter.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_massage_at_home.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_massage_at_home.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_product_detail.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_product_detail.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_product_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_product_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_beauty.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_beauty.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cleaning_pest.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cleaning_pest.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_unfav.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_unfav.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_ginee_service.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_my_ginee_service.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_map_address.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\dialog_map_address.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_send.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_products.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_semibold.otf.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\font\\montserrat_semibold.otf"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_logo.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about_us.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ginee_profile.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ginee_profile.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_service_order.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\dialog_service_order.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_curre_loc.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_curre_loc.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_order.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_my_order.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wishlist.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_painter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_painter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_plus.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_background_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_background_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_selection.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\navigation_selection.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_background.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_background.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rating_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\rating_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_time.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_time.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_beauty.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_service_repair.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_service_repair.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_carpenter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_unfav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_unfav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_plus.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_product_cart.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_product_cart.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_wishlist.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_payment.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_time.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_time.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_pass.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_reset_pass.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ginee_profile.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ginee_profile.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ginee_profile.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ginee_profile.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cart.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cart.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_wishlist.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\raw_comman_myginee.gif.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\raw\\comman_myginee.gif"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_remove.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wishlist.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_notification_badge.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\view_notification_badge.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_btn_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\add_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_time.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_time.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_curre_loc.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_curre_loc.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_disinfection.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_disinfection.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_service_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\review_service_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_logo.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ginee_bg.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ginee_bg.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_background_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_background_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_notify_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\notify_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_down.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_payment.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_logo.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ginee.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ginee.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_disinfection.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_disinfection.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ginne_with_chirag.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ginne_with_chirag.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_icon_location.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_icon_location.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_que.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_que.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dotted_line.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\dotted_line.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_down.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ginee_dialog.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ginee_dialog.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ginee_dialog.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ginee_dialog.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_category_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\service_category_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_icon_location.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_icon_location.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ginee_bg.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ginee_bg.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_massage_at_home.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_massage_at_home.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_carpenter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_icon_location.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_icon_location.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_que.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_que.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cleaning_pest.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cleaning_pest.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calendar_.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_calendar_.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wish_list.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_wish_list.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comman_myginee.gif.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\comman_myginee.gif"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_personal_info.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_signup_personal_info.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_disinfection.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_disinfection.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_service_sub_category.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_service_sub_category.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_time.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plumber.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_plumber.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_review_top.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\bg_review_top.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_disinfection.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_disinfection.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_massage_at_home.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_massage_at_home.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_thanking.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_thanking.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_call.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_wishlist.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_wishlist.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_icon_location.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_icon_location.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_service_repair.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_service_repair.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_background_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_background_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_pass.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_signup_pass.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\raw_order_loader.gif.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\raw\\order_loader.gif"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_remove.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_raw_agent.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\chat_raw_agent.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ginee_profile.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ginee_profile.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_curre_loc.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_curre_loc.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_que.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_que.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_remove.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_rv_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\service_rv_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_service_repair.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_service_repair.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_beauty.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_beauty.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_calendar_.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_unfav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_unfav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pin.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\ic_pin.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_beauty.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_ginee_dialog.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_ginee_dialog.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_que.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_que.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_carpenter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_background_review.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_background_review.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enquiry.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_enquiry.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_ginee.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_my_ginee.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ginne_with_chirag.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ginne_with_chirag.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_time.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_unfav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_unfav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cleaning_pest.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cleaning_pest.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_service.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\dialog_service.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ginee.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ginee.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notification.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notification.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_massage_at_home.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_massage_at_home.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_payment.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\product_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_massage_at_home.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_massage_at_home.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_painter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_painter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_painter.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_painter.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ginee_bg.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ginee_bg.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ginee_dialog.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ginee_dialog.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\raw_ginee_splash.mp4.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\raw\\ginee_splash.mp4"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_down.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_product_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_product_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_disinfection.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_disinfection.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_time.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_time.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_pager_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\product_pager_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plumber.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_plumber.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_wishlist.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ginne_with_chirag.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ginne_with_chirag.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cleaning_pest.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cleaning_pest.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_call.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable-xxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_time.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_time.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_unfav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_unfav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_background_review.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_background_review.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_que.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_que.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cleaning_pest.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cleaning_pest.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_detail_desc_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\detail_desc_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_select_payment.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\dialog_select_payment.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ginee.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ginee.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_et_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\login_et_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ginne_with_chirag.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ginne_with_chirag.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_curre_loc.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_curre_loc.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_calendar_.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_calendar_.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_electrician.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_electrician.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_electrician.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_electrician.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_painter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_painter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_payment.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ginee.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ginee.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.otf.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\font\\montserrat_bold.otf"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_otp.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_signup_otp.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_electrician.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_electrician.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_button.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notification.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_payment.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_dialog_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\login_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_disinfection.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_disinfection.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_maps.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_test_maps.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_que.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_que.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_electrician.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_electrician.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_plumber.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_plumber.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_regular.otf.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\font\\montserrat_regular.otf"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_ginee_bg.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_ginee_bg.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ginee_bg.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ginee_bg.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_payment.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_carpenter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_call.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_fav.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_fav.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ginee_dialog.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ginee_dialog.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_service_repair.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_service_repair.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_plumber.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_plumber.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_send.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_points.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\ic_points.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ginee_dialog.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ginee_dialog.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plumber.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_plumber.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_calendar_.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_calendar_.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notification.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_remove.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_button.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\blue_button.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_beauty.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cleaning_pest.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cleaning_pest.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_background.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_background.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_fav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_address.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_beauty.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_remove.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_remove.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_beauty.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_review_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\service_review_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_service_repair.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_service_repair.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_desc_popup.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\service_desc_popup.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_icon_location.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_icon_location.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_down.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_ginne_with_chirag.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_ginne_with_chirag.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_icon_location.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_icon_location.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_call.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable-mdpi\\ic_call.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calendar_.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_calendar_.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_painter.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_painter.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transaction.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\activity_transaction.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_dotted.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\drawable\\red_dotted.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_unfav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_unfav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_wishlist_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\wishlist_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_down.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_service.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\fragment_service.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_unfav.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_unfav.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ginee_profile.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ginee_profile.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_light.otf.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\font\\montserrat_light.otf"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ginne_with_chirag.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ginne_with_chirag.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_product_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_product_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product_cart.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_product_cart.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_electrician.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_electrician.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_electrician.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_electrician.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_calendar_.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_calendar_.png"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_list_raw.xml.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\src\\main\\res\\layout\\order_list_raw.xml"
+    },
+    {
+        "merged": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_down.png.flat",
+        "source": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_down.png"
+    }
+]

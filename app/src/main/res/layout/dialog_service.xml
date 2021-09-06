@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imgCancel"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:foreground="?attr/selectableItemBackground"
+            android:padding="@dimen/_5sdp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_close"
+            />
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvService"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_200sdp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/dialog_bg"
+            android:layout_margin="@dimen/_20sdp"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center"
+            android:background="@color/bg"
+            android:orientation="horizontal"
+            android:padding="@dimen/_15sdp">
+
+            <TextView
+                android:id="@+id/tvSelect"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_5sdp"
+                android:background="@drawable/blue_button"
+                android:fontFamily="@font/montserrat_semibold"
+                android:gravity="center"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/txt_select"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_10sdp" />
+
+            <TextView
+                android:id="@+id/tvCancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_5sdp"
+                android:background="@drawable/red_button"
+                android:fontFamily="@font/montserrat_semibold"
+                android:gravity="center"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/txt_cancel"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_10sdp"
+                android:layout_below="@id/tvSelect"/>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#3E80B4"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txt_dia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:text="Select Payment Mode"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_15sdp"
+        android:textStyle="bold"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:background="@color/bg"
+        android:orientation="horizontal"
+        android:padding="@dimen/_15sdp">
+
+        <TextView
+            android:id="@+id/tvSelectCash"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/_5sdp"
+            android:background="@drawable/blue_button"
+            android:fontFamily="@font/montserrat_semibold"
+            android:gravity="center"
+            android:padding="@dimen/_5sdp"
+            android:text="CASH ON DELIVERY"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp" />
+
+        <TextView
+            android:id="@+id/tvSelectOnline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/_5sdp"
+            android:background="@drawable/red_button"
+            android:fontFamily="@font/montserrat_semibold"
+            android:gravity="center"
+            android:padding="@dimen/_5sdp"
+            android:text="ONLINE PAYMENT"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp"
+            android:layout_below="@id/tvSelectCash"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

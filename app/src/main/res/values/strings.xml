@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">My Ginee Customer</string>
+
+    <string name="tab_service">SERVICES</string>
+    <string name="tab_products">PRODUCTS</string>
+    <string name="address_txt">Address</string>
+    <string name="search_service_txt">search services</string>
+    <string name="search_products_txt">Search Products</string>
+
+    <string name="my_ginee_txt">MY GINEE</string>
+    <string name="cart_txt">CART</string>
+    <string name="alert_txt">ALERT</string>
+    <string name="acc_txt">ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Account_screen-->
+    <string name="profile_txt">MY PROFILE</string>
+    <string name="order_txt">MY ORDERS</string>
+    <string name="service_txt">MY SERVICES</string>
+    <string name="wishlist_txt">WISHLIST</string>
+    <string name="privacy_txt">PRIVACY POLICY</string>
+    <string name="abt_us_txt">ABOUT US</string>
+    <string name="sign_out_txt">SIGN OUT</string>
+
+    <string name="basin_snk_txt">Basin Sink</string>
+    <string name="inquiry_txt">BOOK NOW</string>
+    <string name="chat_txt">CHAT</string>
+    <string name="call_txt">CALL</string>
+
+    <!--REVIEW-->
+    <string name="txt_service">SERVICE</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="txt_select">SELECT</string>
+    <string name="txt_cancel">CANCEL</string>
+
+    <string name="txt_signin">SIGN IN</string>
+    <string name="txt_reset_pass">RESET PASSWORD</string>
+    <string name="txt_signup">SIGN UP</string>
+    <string name="txt_mo_no">MOB.NO</string>
+    <string name="txt_cust_name">Name of the customer</string>
+    <string name="txt_name">NAME</string>
+    <string name="txt_otp_verify">OTP VERIFY</string>
+    <string name="txt_pass">PASSWORD</string>
+    <string name="txt_old_pass">OLD PASSWORD</string>
+    <string name="txt_new_pass">NEW PASSWORD</string>
+    <string name="txt_conf_pass">CONFIRM PASSWORD</string>
+    <string name="txt_fgt_pwd">FORGOT PASSWORD?</string>
+    <string name="txt_new_agent">NEW CUSTOMER? SIGN UP</string>
+    <string name="txt_next">NEXT</string>
+    <string name="txt_done">DONE</string>
+    <string name="txt_personal_info">PERSONAL INFO.</string>
+    <string name="txt_full_name">FULL NAME</string>
+    <string name="txt_aadhar_id">AADHAR ID</string>
+    <string name="txt_change_pass">Change Password?</string>
+    <string name="txt_change_password">Change Password</string>
+
+    <string name="txt_thanks">THANK YOU</string>
+    <string name="txt_thanks_msg">We are rubbing the wish lamp to call \n Your Service Ginee.</string>
+    <string name="txt_thanks_msg_last">Jo Hukum Mere Aka.!!</string>
+
+    <!-- loading message -->
+    <string name="loading_message">Loading...</string>
+    <string name="server_error_message">Something went wrong!</string>
+    <string name="sms_provider_error_message">Please Contact Server Provider!</string>
+
+    <!-- logout alert -->
+    <string name="logout_alert_message">Are you sure you want to signout?</string>
+    <string name="alert_ok_button_text">OK</string>
+    <string name="logout_alert_title">SIGNOUT</string>
+    <string name="alert_cancel_button_text">CANCEL</string>
+
+    <!-- Internet Connection alert -->
+    <string name="no_internet_alert_title">Connection Error</string>
+    <string name="no_internet_alert_message">Oops!! You have lost your Internet Connection.</string>
+
+    <string name="user_phone_error_message">Please enter valid mobile number</string>
+    <string name="user_pass_error_message">Please enter valid password</string>
+    <string name="user_conf_pass_error_message">Please enter valid confirm password</string>
+    <string name="user_conf_pass_match_error_message">Password not matching</string>
+    <string name="user_name_error_message">Please enter valid name</string>
+    <string name="user_otp_error_message">Please enter valid otp</string>
+    <string name="email_error_message">Please enter valid Email Address</string>
+
+
+    <string name="txt_view_more">View More</string>
+
+    <string name="txt_add_to_cart">ADD TO CART</string>
+    <string name="txt_add_to_wishlist">ADD TO WISHLIST</string>
+
+    <string name="txt_delivery_charges">Delivery Charges</string>
+    <string name="txt_no_cart">No item in the cart</string>
+    <string name="txt_sub_total">Sub Total</string>
+    <string name="txt_proceed_pay">PROCEED TO PAY</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_add_cart">Add to Cart</string>
+    <string name="txt_save_change">SAVE CHANGES</string>
+
+    <string name="title_abt_us">ABOUT US/TERMS OF SERVICES</string>
+
+    <string name="txt_save_add">SAVE ADDRESS</string>
+    <string name="txt_office">Office</string>
+    <string name="txt_home">Home</string>
+    <string name="txt_house_no">Flat/House No.</string>
+    <string name="txt_area">Area, Colony, Street</string>
+    <string name="txt_landmark">Landmark</string>
+    <string name="txt_conf_add">CONFIRM ADDRESS</string>
+    <string name="txt_change">CHANGE</string>
+    <string name="txt_pkg_detail">Service Detail</string>
+    <string name="txt_add">Add</string>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/llData"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rlSlider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">       
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/viewPagerbackground"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_120sdp"
+                android:layout_gravity="center" />
+        </FrameLayout>
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/vpBanner"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_120sdp"
+            android:clipToPadding="false"
+            android:paddingEnd="48dp"
+            android:paddingLeft="48dp"
+            android:paddingRight="48dp"
+            android:paddingStart="30dp"
+            
+            />
+
+        <com.viewpagerindicator.CirclePageIndicator
+            android:id="@+id/indicaterBanner"
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:layout_below="@id/vpBanner"
+            app:fillColor="@color/colorPrimary"
+            app:pageColor="@color/light_grey"
+            app:radius="3.5dp"
+            app:strokeWidth="0dp" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvServiceCategoryList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_weight="1"
+        android:nestedScrollingEnabled="false"
+        android:orientation="vertical" />
+    </LinearLayout>
+
+</LinearLayout>

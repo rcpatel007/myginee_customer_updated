@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "352915374561",
+    "firebase_url": "https://mygenie-d5821.firebaseio.com",
+    "project_id": "mygenie-d5821",
+    "storage_bucket": "mygenie-d5821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352915374561:android:1a13b1dd97f942262712a0",
+        "android_client_info": {
+          "package_name": "com.example.mygenieagentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac2tPmwyfIFF7SHeNYNDivAVPfuTU5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352915374561:android:1057ec8e8e56cbd22712a0",
+        "android_client_info": {
+          "package_name": "com.example.mygenineandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac2tPmwyfIFF7SHeNYNDivAVPfuTU5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352915374561:android:cd7d027b105dc2132712a0",
+        "android_client_info": {
+          "package_name": "com.myginee.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac2tPmwyfIFF7SHeNYNDivAVPfuTU5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352915374561:android:fb38b81686fc47a12712a0",
+        "android_client_info": {
+          "package_name": "com.myginee.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac2tPmwyfIFF7SHeNYNDivAVPfuTU5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

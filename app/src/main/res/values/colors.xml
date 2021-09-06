@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#BE1515</color>
+    <color name="colorPrimaryDark">#681A04</color>
+    <color name="colorAccent">#DD0505</color>
+
+
+    <color name="transparent">#80000000</color>
+
+    <color name="dialogue">#0272C6</color>
+
+    <!--<color name="app_color">#424242</color>-->
+    <color name="app_color">#73a534</color>
+    <color name="tab_bg_color">#F2F2F2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#313133</color>
+    <color name="signup_btn_color">#FA0202</color>
+    <color name="login_btn_color">#FFFFFF</color>
+    <color name="actionbar_color">#F7F7F7</color>
+
+    <color name="cart_info_bg_color">#333333</color>
+    <color name="cart_info_text_color">#f7f7f7</color>
+
+    <color name="edittext_text_color">#FFFFFF</color>
+    <color name="edittext_hint_color">#FFFFFF</color>
+
+    <color name="dark_green">#ff689f38</color>
+    <color name="green">#3cc102</color>
+    <color name="red">#f13945</color>
+
+    <!--<color name="login_signup_btn_bg">#12BFA1</color>-->
+    <color name="login_signup_btn_bg">#91c74c</color>
+    <color name="login_with_g_f_btn_bg">#B3C0C0B6</color>
+
+    <color name="drawer_list_bg">#333333</color>
+    <color name="drawer_list_text_color">#F7F7F7</color>
+
+    <color name="divider_color">#bdc1c9</color>
+
+    <color name="date_tag_bg">#495C62</color>
+    <color name="add_to_cart_btn_bg">#F6F6F6</color>
+
+    <color name="text_color">#878787</color>
+    <color name="text_color_name">#606060</color>
+    <color name="et_bg_color">#DCE7F9</color>
+    <color name="text_color_thnks">#074B9F</color>
+    <color name="text_color_bottom_menu">#878787</color>
+    <color name="light_grey">#30000000</color>
+    <color name="search_text_color">#11BEA0</color>
+
+    <color name="shop_by_category_bg_color">#F0F0F0</color>
+    <color name="bottom_cart_indicator">#3a3434</color>
+
+    <color name="cb_grey">#ffe9e7e7</color>
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+
+
+    <color name="holo_splash_light">#ffffbb33</color>
+    <color name="bg">#d9e5f7</color>
+    <color name="light_white">#FFFFFF</color>
+
+</resources>

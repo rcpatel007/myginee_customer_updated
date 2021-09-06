@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/badge_frame_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="11dp"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/badge_text_view"
+        android:layout_width="@dimen/_15sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:textSize="@dimen/_10sdp"
+        android:textColor="@color/colorPrimary"
+        android:background="@drawable/round_corner"
+        android:layout_gravity="top|center"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:padding="2dp"
+        android:fontFamily="@font/montserrat_bold"
+        />
+
+</RelativeLayout>

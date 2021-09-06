@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/llData"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etSearchProd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10sdp"
+            android:background="@drawable/login_et_bg"
+            android:drawableLeft="@drawable/ic_search"
+            android:drawablePadding="20dp"
+            android:drawableTint="@color/text_color"
+            android:fontFamily="@font/montserrat_regular"
+            android:hint="@string/search_products_txt"
+            android:imeOptions="actionSearch"
+            android:inputType="text"
+            android:maxLines="1"
+            android:padding="@dimen/_5sdp"
+            android:singleLine="true"
+            android:textColor="@color/text_color_name"
+            android:textColorHint="@color/text_color"
+            android:textSize="@dimen/_10sdp" />
+
+        <RelativeLayout
+            android:id="@+id/rlSlider"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/vpBanner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_120sdp"
+                android:clipToPadding="false"
+                android:paddingEnd="48dp"
+                android:paddingLeft="48dp"
+                android:paddingRight="48dp"
+                android:paddingStart="30dp"/>
+
+            <com.viewpagerindicator.CirclePageIndicator
+                android:id="@+id/indicaterBanner"
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:layout_below="@id/vpBanner"
+                app:fillColor="@color/colorPrimary"
+                app:pageColor="@color/light_grey"
+                app:radius="3.5dp"
+                app:strokeWidth="0dp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="@dimen/_10sdp"
+            android:background="@drawable/dotted_line" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvProductsList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10sdp"
+            android:nestedScrollingEnabled="false"
+            android:orientation="vertical" />
+    </LinearLayout>
+
+
+</LinearLayout>

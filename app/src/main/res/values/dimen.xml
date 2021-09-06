@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">46dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="action_btn_height_width">50dp</dimen>
+    <dimen name="action_btn_margine">5dp</dimen>
+    <dimen name="action_btn_padding">10dp</dimen>
+
+    <dimen name="view_margin">10dp</dimen>
+
+    <dimen name="logo_height_width">200dp</dimen>
+    <dimen name="signup_login_btn_width">250dp</dimen>
+    <dimen name="signup_login_margin">10dp</dimen>
+
+    <dimen name="g_f_btn_height_width">100dp</dimen>
+    <dimen name="g_f_img_height_width">50dp</dimen>
+
+    <dimen name="drawer_width">280dp</dimen>
+
+    <dimen name="horizontal_list_cat_height">120dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="recycle_height">203dp</dimen>
+    <dimen name="pager_margin">5dp</dimen>   
+    <dimen name="viewPagerMargin">150dp</dimen>
+</resources>

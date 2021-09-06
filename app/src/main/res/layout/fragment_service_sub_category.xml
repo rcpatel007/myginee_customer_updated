@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/_5sdp"
+    android:background="@color/white">
+    <LinearLayout
+        android:id="@+id/llData"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCategory"
+        android:text="CATEGORY"
+        android:layout_gravity="start"
+        android:textSize="@dimen/_10sdp"
+        android:gravity="start"
+        android:paddingLeft="@dimen/_5sdp"
+        android:fontFamily="@font/montserrat_regular"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCategoryDesc"
+        android:text="Description"
+        android:textSize="@dimen/_7sdp"
+        android:paddingLeft="@dimen/_5sdp"
+        android:gravity="start"
+        android:fontFamily="@font/montserrat_regular"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="@dimen/_20sdp"
+        android:nestedScrollingEnabled="false"
+        android:id="@+id/rvServiceSubCategoryList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:padding="@dimen/_5sdp"/>
+
+    </LinearLayout>
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/imgLoader"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/comman_myginee" />
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        />
+</LinearLayout>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".fragment.AccountFragment"
+    android:background="@drawable/ic_background">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_ginee_profile"
+        android:gravity="center|top"
+        android:layout_gravity="center|top"
+        android:paddingLeft="@dimen/_50sdp"
+        android:paddingRight="@dimen/_50sdp"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="-15dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/_40sdp"
+        android:layout_marginRight="@dimen/_40sdp"
+        android:background="@drawable/et_bg"
+        android:layout_below="@+id/imageView"
+
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvProfile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/profile_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"
+                android:background="@drawable/dotted_line"/>
+
+            <TextView
+                android:id="@+id/tvService"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/service_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"
+                android:background="@drawable/dotted_line"/>
+
+            <TextView
+                android:id="@+id/tvOrder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/order_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"
+                android:background="@drawable/dotted_line"/>
+
+            <TextView
+                android:id="@+id/tvWishList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/wishlist_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"
+                android:background="@drawable/dotted_line"/>
+
+            <TextView
+                android:id="@+id/tvPolicy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/privacy_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"
+                android:background="@drawable/dotted_line"/>
+
+            <TextView
+                android:id="@+id/tvAboutUs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/abt_us_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"
+                android:background="@drawable/dotted_line"/>
+
+            <TextView
+                android:id="@+id/tvSignOut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/sign_out_txt"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"/>
+
+            <TextView
+                android:visibility="gone"
+                android:id="@+id/tvSignIn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:padding="@dimen/_13sdp"
+                android:text="@string/txt_signin"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/_10sdp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

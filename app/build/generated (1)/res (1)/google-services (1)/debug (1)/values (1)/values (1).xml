@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">352915374561-cftgn5h5ero8n82ic9uprmrm87ord4hr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mygenie-d5821.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">352915374561</string>
+    <string name="google_api_key" translatable="false">AIzaSyBac2tPmwyfIFF7SHeNYNDivAVPfuTU5ns</string>
+    <string name="google_app_id" translatable="false">1:352915374561:android:fb38b81686fc47a12712a0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBac2tPmwyfIFF7SHeNYNDivAVPfuTU5ns</string>
+    <string name="google_storage_bucket" translatable="false">mygenie-d5821.appspot.com</string>
+    <string name="project_id" translatable="false">mygenie-d5821</string>
+</resources>

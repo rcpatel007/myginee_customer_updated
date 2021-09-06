@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Downloads/myginee_customer_kinjal-design (1)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/538f65608a6463ad94612e5edebc8205/jetified-plug-n-play-1.6.0/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,6,11,16,19,29,33,37,38,42,53,69,75,79",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,267,599,852,1039,1576,1768,1991,2085,2311,2956,4070,4434,4648",
+                        "endLines": "5,10,15,18,28,32,36,37,41,52,68,74,78,87",
+                        "endColumns": "12,12,12,12,12,12,12,93,12,12,12,12,12,12",
+                        "endOffsets": "262,594,847,1034,1571,1763,1986,2080,2306,2951,4065,4429,4643,5135"
+                    }
+                }
+            ]
+        }
+    ]
+}

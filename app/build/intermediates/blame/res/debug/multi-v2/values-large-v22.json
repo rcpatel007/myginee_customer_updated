@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Downloads/myginee_customer_kinjal-design (1)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v22/values-large-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/210391bb1b914ed002d13bbe60a216c0/jetified-payu-custom-browser-7.5.1/res/values-large-v22/values-large-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,148",
+                        "endLines": "2,5",
+                        "endColumns": "92,12",
+                        "endOffsets": "143,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

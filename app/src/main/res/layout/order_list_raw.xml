@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_bg"
+    android:layout_marginLeft="@dimen/_10sdp"
+    android:layout_marginRight="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_10sdp"
+    >
+
+    <TextView
+        android:id="@+id/tvDeliverDateTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="start|center"
+        android:fontFamily="@font/montserrat_regular"
+        android:gravity="start|center"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingLeft="@dimen/dimen_5dp"
+        android:text="5th Feb 20"
+        android:textColor="#313133"
+        android:textSize="@dimen/_10sdp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageProductService"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:src="@drawable/ic_notification"
+            android:scaleType="fitXY"/>
+
+        <LinearLayout
+            android:id="@+id/llView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/imageView"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/_10sdp">
+
+            <TextView
+                android:id="@+id/tvNameProductService"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="start|center"
+                android:lines="2"
+                android:text="Waste pipe, washbasin pipe, washbasin pipe, washbasin"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10sdp" />
+
+
+            <TextView
+                android:id="@+id/tvServicePrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="start|center"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="start|center"
+                android:paddingTop="@dimen/_5sdp"
+                android:text="Rs.80"
+                android:textColor="#313133"
+                android:textSize="@dimen/_10sdp" />
+
+
+            <TextView
+                android:id="@+id/tvDeliverDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="start|center"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="start|center"
+                android:paddingTop="@dimen/_5sdp"
+                android:text="Delivered on 05-feb-2002"
+                android:textColor="#313133"
+                android:textSize="@dimen/_10sdp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

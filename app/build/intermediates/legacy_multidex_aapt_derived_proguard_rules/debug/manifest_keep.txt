@@ -1,0 +1,4 @@
+# Referenced at /Users/apple/Downloads/myginee_customer_kinjal-design (1)/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:43
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/apple/Downloads/myginee_customer_kinjal-design (1)/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:43
+-keep class com.myginee.customer.GineeAppApplication { <init>(); }

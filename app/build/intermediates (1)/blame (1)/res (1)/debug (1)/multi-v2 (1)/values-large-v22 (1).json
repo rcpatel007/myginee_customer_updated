@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\kinjal pc backup\\backup\\myginee_customer_kinjal-design-20210904T170052Z-001\\myginee_customer_kinjal-design\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v22\\values-large-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\you\\.gradle\\caches\\transforms-2\\files-2.1\\76f2173bf783a1589aa0ffe8650d065a\\jetified-payu-custom-browser-7.5.1\\res\\values-large-v22\\values-large-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,148",
+                        "endLines": "2,5",
+                        "endColumns": "92,12",
+                        "endOffsets": "143,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

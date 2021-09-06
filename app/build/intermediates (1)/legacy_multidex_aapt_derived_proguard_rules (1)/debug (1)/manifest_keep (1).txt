@@ -1,0 +1,4 @@
+# Referenced at E:\kinjal pc backup\backup\myginee_customer_kinjal-design-20210904T170052Z-001\myginee_customer_kinjal-design\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:43
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\kinjal pc backup\backup\myginee_customer_kinjal-design-20210904T170052Z-001\myginee_customer_kinjal-design\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:43
+-keep class com.myginee.customer.GineeAppApplication { <init>(); }

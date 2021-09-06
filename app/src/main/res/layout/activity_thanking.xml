@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_background_review"
+    android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_20sdp"
+            android:background="@drawable/dialog_bg"
+            android:orientation="vertical"
+            android:gravity="center">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/montserrat_semibold"
+                android:gravity="center"
+                android:text="@string/txt_thanks"
+                android:textColor="@color/dialogue"
+                android:textSize="@dimen/_15sdp"
+                android:padding="@dimen/_10sdp"
+                android:letterSpacing="0.3"/>
+
+            <TextView
+                android:id="@+id/tvTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:text="@string/txt_thanks_msg"
+                android:textColor="@color/text_color_name"
+                android:textSize="@dimen/_12sdp"
+                android:padding="@dimen/_10sdp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="center"
+                android:text="@string/txt_thanks_msg_last"
+                android:textColor="@color/text_color_thnks"
+                android:textStyle="bold"
+                android:textSize="@dimen/_12sdp"
+                android:padding="@dimen/_10sdp"/>
+        </LinearLayout>
+</RelativeLayout>

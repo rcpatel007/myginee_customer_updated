@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_bg"
+    android:layout_marginLeft="@dimen/_10sdp"
+    android:layout_marginRight="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_10sdp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:src="@drawable/ic_notification"
+            android:tag="image_tag"
+            android:layout_margin="@dimen/_5sdp"/>
+
+        <LinearLayout
+            android:id="@+id/llView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/imageView"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvOrProName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="bottom|start"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="start"
+                android:paddingTop="@dimen/_5sdp"
+                android:text="CARPENTER"
+                android:textColor="#313133"
+                android:textSize="@dimen/_10sdp" />
+
+            <TextView
+                android:id="@+id/tvCatPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/montserrat_regular"
+                android:gravity="start"
+                android:lines="2"
+                android:text="Waste pipe, washbasin pipe, washbasin pipe, washbasin"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_7sdp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/rlRating"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_review_bottom"
+        android:padding="@dimen/_5sdp"
+        >
+        <TextView
+            android:id="@+id/tvReview"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/montserrat_regular"
+            android:gravity="start"
+            android:text="REVIEW US"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp"
+            android:layout_centerInParent="true"
+            android:layout_alignParentLeft="true"/>
+        <!--<TextView
+            android:id="@+id/tvTapToView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/montserrat_regular"
+            android:gravity="center"
+            android:text="TAP TO VIEW"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp"
+            android:visibility="gone"
+            android:layout_centerInParent="true"/>-->
+        <androidx.appcompat.widget.AppCompatRatingBar
+            android:layout_centerInParent="true"
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|right"
+            android:gravity="end|right"
+            android:isIndicator="true"
+            android:numStars="5"
+            android:stepSize="0.5"
+            android:progressTint="@color/holo_splash_light"
+            android:visibility="gone"
+            android:paddingLeft="@dimen/dimen_20dp"
+            android:paddingRight="@dimen/dimen_5dp"
+            android:paddingTop="@dimen/dimen_5dp"
+            android:paddingBottom="@dimen/dimen_5dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="@dimen/_20sdp"
+            />
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/dotted_line" />
+</LinearLayout>

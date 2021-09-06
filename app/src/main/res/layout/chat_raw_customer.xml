@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp">
+
+    <TextView
+        android:id="@+id/textContentUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/red_button"
+        android:padding="@dimen/_5sdp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:fontFamily="@font/montserrat_regular"
+        android:layout_marginRight="@dimen/_5sdp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginLeft="20dp"
+        android:text="a life has..."
+        android:textColor="#ffffff"
+        android:textSize="@dimen/_11sdp"/>
+
+    <TextView
+        android:id="@+id/textTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textContentUser"
+        android:gravity="right"
+        android:layout_marginRight="@dimen/_5sdp"
+        android:text="09:24 AM"
+        android:textSize="@dimen/_9sdp"
+        android:layout_marginLeft="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/text_color_name" />
+
+</RelativeLayout>
